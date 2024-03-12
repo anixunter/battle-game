@@ -1,0 +1,10 @@
+.main {
+background: linear-gradient(90deg, rgba(5, 5, 19, 1) 0%, rgba(1, 0, 1, 0.8995798148360907) 15%, rgba(56, 61, 59, 1) 100%);
+
+width: 100vw;
+height: 100vh;
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: space-between;
+}
